@@ -16,10 +16,9 @@ function App() {
       <Router>
         <Header />
           <Routes>
-            <Route path='/'> </Route>
-            <Route path='/about'> </Route>
-            <Route path='/contact'> </Route>
-            <Route path='/project'> </Route>
+            <Route path='/' element={<About />} > </Route>
+            <Route path='/contact' element={<Contact />}> </Route>
+            <Route path='/project' element={<Projects />}> </Route>
           </Routes>
         <Footer />
       </Router>

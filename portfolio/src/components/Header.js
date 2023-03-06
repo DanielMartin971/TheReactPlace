@@ -4,7 +4,7 @@ import '../styles/Nav.css';
 
 function Header () {
     return (
-        <div  className='header'>
+        <div className='header'>
             <h1>Daniel Martin</h1>
             <Nav />
         </div>

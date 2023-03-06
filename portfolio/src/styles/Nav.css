@@ -9,7 +9,14 @@
     color: #FF9900;
 }
 
+.links{
+    padding-top: 2%;
+    font-size: 20px;
+    padding-left: 90%;
+}
+
 .header{
+    height: 100px;
     background: #55ACEE;
     background: -webkit-radial-gradient(#55ACEE, #30648C);
     background: -o-radial-gradient(#55ACEE, #30648C);
@@ -19,5 +26,10 @@
 }
 
 .header h1{
+    font-size: 45px;
     margin-top: 0px;
+    display: flex;
+    float: left;
+    padding-left: 100px;
+    padding-top: 30px;
 }

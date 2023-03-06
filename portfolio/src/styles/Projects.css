@@ -4,6 +4,11 @@
     margin-right: 20px;
     margin-left: 20px;
 }
+.web:hover, .git:hover {
+    transition: 0.3s ease;
+    cursor: pointer;
+    color: #FF9900;
+}
 
 .proPhoto {
     width: 30%;

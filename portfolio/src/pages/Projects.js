@@ -6,6 +6,8 @@ import BasicQuest from '../assets/imgs/basicQuest.png';
 import RockOn from '../assets/imgs/rockOn.png';
 import RedonePort from '../assets/imgs/redonePort.png';
 import Skaro from '../assets/imgs/Skaro.png';
+import LSE from '../assets/imgs/LSE.png';
+import NoteTakerX from '../assets/imgs/noteTakerX.png';
 
 const projects = [
     {
@@ -35,6 +37,20 @@ const projects = [
         alt: 'Login Page',
         link: 'https://mpe.herokuapp.com/login',
         GitHub: 'https://github.com/DanielMartin971/Skaro'
+    },
+    {
+        name: 'Skaro',
+        img: NoteTakerX,
+        alt: 'Note Taking App',
+        link: 'https://notetakerchallenge11x.herokuapp.com/',
+        GitHub: 'https://github.com/DanielMartin971/NoteTakerX'
+    },
+    {
+        name: 'Library Search Engine',
+        img: LSE,
+        alt: 'Book Search',
+        link: 'https://libraryengineapp.herokuapp.com/',
+        GitHub: 'https://github.com/DanielMartin971/LibrarySearchEngine'
     }
 ]
 

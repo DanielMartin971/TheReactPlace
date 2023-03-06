@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/contact';
+import '../styles/Contact.css';
 
 function Contact () {
     const [ name, setName ] = useState('');
@@ -29,14 +29,14 @@ function Contact () {
     }
 
     return (
-        <div>
+        <div className='form'>
             <h1>Contact</h1>
-            <form className='form'>
-                <label>Name</label>
-                <input value={name} name='name' onChange={handleInputChange} type='name' placeholder='name' />
-                <label>Email</label>
-                <input value={email} name='email' onChange={handleInputChange} type='email' placeholder='email' />
-                <label>Message</label>
+            <form>
+                <label>Name:</label>
+                <input value={name} name='name' onChange={handleInputChange} type='name' placeholder='Name' />
+                <label>Email:</label>
+                <input value={email} name='email' onChange={handleInputChange} type='email' placeholder='Email' />
+                <label>Message:</label>
                 <input value={message} name='Message' onChange={handleInputChange} type='Message' placeholder='Message' />
 
                 <button type='button' onClick={handleFormSub}>Submit</button>

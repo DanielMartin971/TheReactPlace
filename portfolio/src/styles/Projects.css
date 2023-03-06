@@ -1,0 +1,10 @@
+.web, .git{
+    text-align: center;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.proPhoto {
+    width: 30%;
+}

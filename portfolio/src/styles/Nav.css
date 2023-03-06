@@ -1,0 +1,23 @@
+.links a{
+    padding-left: 20px;
+    text-decoration: none;
+    color: #55ACEE;
+    padding-bottom: 10px;
+}
+
+.links a:hover{
+    color: #FF9900;
+}
+
+.header{
+    background: #55ACEE;
+    background: -webkit-radial-gradient(#55ACEE, #30648C);
+    background: -o-radial-gradient(#55ACEE, #30648C);
+    background: -moz-radial-gradient(#55ACEE, #30648C);
+    background: linear-gradient(#30648C, #30648C);
+    padding-bottom: 15px;
+}
+
+.header h1{
+    margin-top: 0px;
+}

@@ -1,11 +1,11 @@
 import React from 'react';
-import Project from '../components/Projects';
-import '../styles/Projects';
+import Project from '../components/Projects.js';
+import '../styles/Projects.css';
 
-import BasicQuest from '../assets/imgs/basicQuest';
-import RockOn from '../assets/imgs/rockOn';
-import RedonePort from '../assets/imgs/redonePort';
-import Skaro from '../assets/imgs/Skaro';
+import BasicQuest from '../assets/imgs/basicQuest.png';
+import RockOn from '../assets/imgs/rockOn.png';
+import RedonePort from '../assets/imgs/redonePort.png';
+import Skaro from '../assets/imgs/Skaro.png';
 
 const projects = [
     {

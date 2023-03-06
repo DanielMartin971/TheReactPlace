@@ -1,0 +1,35 @@
+.form{
+    display: inline-block;
+    text-align: center;
+    background-color: #E1E8ED;
+    padding: 100px;
+    height: 684px;
+}
+
+.form label{
+    display: flex;
+    float: left;
+    margin-right: 10px;
+}
+
+.form input{
+    display: block;
+    margin: 20px 10px;
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+button{
+    border:none;
+    border-radius:.2rem;
+    background:#55ACEE;
+    height: 50px;
+    width: 200px;
+    padding:5px 8px;
+}
+
+button:hover{
+    cursor:pointer;
+    transition:0.5s ease;
+    background:#FF9900;
+}

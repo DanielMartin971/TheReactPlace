@@ -1,0 +1,28 @@
+.footer{
+    background: #55ACEE;
+    background: -webkit-radial-gradient(#30648C, #55ACEE);
+    background: -o-radial-gradient(#30648C, #55ACEE);
+    background: -moz-radial-gradient(#30648C, #55ACEE);
+    background: linear-gradient(#30648C, #55ACEE);
+}
+
+.footer p{
+    color:black;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.socials{
+    padding: 50px;
+}
+
+.linked, .email, .gitH{
+    padding: 20px;
+    font-size: 4rem !important;
+}
+
+.linked:hover, .email:hover, .gitH:hover{
+    cursor:pointer;
+    transition:0.3s ease;
+    color: #FF9900;
+}

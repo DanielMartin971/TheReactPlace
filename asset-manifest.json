@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TheReactPlace/static/css/main.9fe2f15e.css",
+    "main.js": "/TheReactPlace/static/js/main.3c826f27.js",
+    "static/media/rockOn.png": "/TheReactPlace/static/media/rockOn.ba015b6489f7a9915303.png",
+    "static/media/LSE.png": "/TheReactPlace/static/media/LSE.3661646bf711d451bd70.png",
+    "static/media/Skaro.png": "/TheReactPlace/static/media/Skaro.c6f83f64320e80c2689b.png",
+    "static/media/basicQuest.png": "/TheReactPlace/static/media/basicQuest.2d3a3102277da445b1e0.png",
+    "static/media/noteTakerX.png": "/TheReactPlace/static/media/noteTakerX.656aad3512fab03cae08.png",
+    "static/media/redonePort.png": "/TheReactPlace/static/media/redonePort.a1895058a1d72561d744.png",
+    "static/media/profile.jpg": "/TheReactPlace/static/media/profile.c9e0333c13753e3aaed6.jpg",
+    "index.html": "/TheReactPlace/index.html",
+    "main.9fe2f15e.css.map": "/TheReactPlace/static/css/main.9fe2f15e.css.map",
+    "main.3c826f27.js.map": "/TheReactPlace/static/js/main.3c826f27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe2f15e.css",
+    "static/js/main.3c826f27.js"
+  ]
+}
